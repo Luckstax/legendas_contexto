@@ -1,0 +1,13 @@
+# Instale em dois comandos:
+#
+#   pip install -r requirements.txt
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121   (opcional, GPU NVIDIA)
+#
+# Python 3.10 ou superior. tkinter já vem com o Python.
+
+telethon>=1.36
+python-dotenv>=1.0
+faster-whisper>=1.0.0
+av
+openai>=1.0.0
+numpy>=1.24

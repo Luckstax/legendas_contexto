@@ -1,0 +1,21 @@
+{
+  "series_name": "Nome da série",
+  "videos_dir": "dados/videos",
+  "pasta_transcricoes": "dados/transcricoes",
+  "pasta_analises": "dados/analises",
+  "arquivo_final": "dados/context.json",
+  "arquivo_log": "dados/relatorio.txt",
+  "whisper_model": "medium",
+  "whisper_language": "pt",
+  "whisper_device": "cpu",
+  "whisper_compute": "int8",
+  "lms_model_id": "qwen2.5-7b-instruct",
+  "lms_model_quant": "",
+  "lms_port": 1234,
+  "lms_context_length": 8192,
+  "chunk_minutes": 8,
+  "max_tokens": 2048,
+  "arquivo_baixados": "dados/baixados.txt",
+  "desligar_ativo": false,
+  "desligar_hora": ""
+}
